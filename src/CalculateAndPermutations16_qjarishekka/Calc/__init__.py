@@ -1,7 +1,7 @@
 if __name__ == '__main__':
     from Task import Task
 else:
-    from src.CalculateAndPermutations16_qjarishekka.Calc.Task import Task
+    from CalculateAndPermutations16_qjarishekka.Calc.Task import Task
 
 def test1(comments=False):
     test = Task("1+1")

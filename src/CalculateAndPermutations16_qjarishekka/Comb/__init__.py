@@ -3,9 +3,9 @@ if __name__ == '__main__':
     from Comb import permutation
     from Comb import combination
 else:
-    from src.CalculateAndPermutations16_qjarishekka.Comb.Comb import factorial
-    from src.CalculateAndPermutations16_qjarishekka.Comb.Comb import combination
-    from src.CalculateAndPermutations16_qjarishekka.Comb.Comb import permutation
+    from CalculateAndPermutations16_qjarishekka.Comb.Comb import factorial
+    from CalculateAndPermutations16_qjarishekka.Comb.Comb import combination
+    from CalculateAndPermutations16_qjarishekka.Comb.Comb import permutation
 
 
 def test(comments=False):
